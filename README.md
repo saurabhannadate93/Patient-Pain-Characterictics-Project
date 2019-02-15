@@ -1,7 +1,12 @@
 # Patient-Pain-Characterictics-Project
 Analysis to determine the trends in post-Operation pain observed by patients
 
-##### GitHUB repo cloned from https://github.com/MSIA/Team_Uptake
+Contributors:
+1. Saurabh Annadate
+2. Tanya Tandon
+3. Finn Qiao
+4. Eileen Zhang
+5. Katie Tang
 
 ## Pain: Are we similar?
 
